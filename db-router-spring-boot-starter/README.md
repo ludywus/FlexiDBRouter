@@ -1,4 +1,4 @@
-# EasyDBRouter-db-router-spring-boot-starter
+# FlexiDBRouter-db-router-spring-boot-starter
 db-router-spring-boot-starter
 ##  author: cjl
 ### 数据库连接池支持
