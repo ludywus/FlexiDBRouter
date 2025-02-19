@@ -4,7 +4,7 @@ db-router-spring-boot-starter
 ### 数据库连接池支持
 - 实现分库全局配置
 配置mini-db-router.jdbc.datasource.global全局属性,如果db没有这个属性,则取全局,
-否则取db中的配置。同时支持嵌套配置，如下pool.maximum-pool-size，若db中有pool,但没有pool.maximum-pool-size也会取全局值。
+否则取db中的配置。同时支持嵌套配置，如下pool.maximum-pool-size，若db中有pool,但没有pool.maximum-pool-size也会取全局值 。
 ```
 mini-db-router:
   jdbc:
